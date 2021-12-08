@@ -1,0 +1,13 @@
+.submit{
+    display: flex;
+    justify-content:center
+}
+
+.padding{
+    padding: 15px;
+}
+
+.form{
+    display: flex;
+    justify-content: center;
+}
